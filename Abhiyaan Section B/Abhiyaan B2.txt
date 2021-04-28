@@ -1,0 +1,1 @@
+We could avoid the sensor errors by using Kalmann Filter which collects the observed measurements over multiple runs and estimates the error when we use the sensors in real life. This method will remove noise and also values that arise due to sensor errors.
